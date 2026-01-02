@@ -1,7 +1,7 @@
 # API de Autenticação e Usuários
 
 ### Descrição
-Este projeto oferece uma API RESTful para autenticação e gerenciamento de usuários, incluindo login, registro, edição e exclusão de usuários. A API foi construída usando **Spring Boot 3.5.9**, **Spring Security**, **JWT (JSON Web Tokens)**, **JPA/Hibernate** e **MySQL**.
+Este projeto oferece uma API REST para autenticação e gerenciamento de usuários, incluindo login, registro, edição e exclusão de usuários. A API foi construída usando **Spring Boot 3.5.9**, **Spring Security**, **JWT (JSON Web Tokens)**, **JPA/Hibernate** e **MySQL**.
 ___
 
 ## **Tecnologias Utilizadas**
@@ -40,6 +40,7 @@ ___
 **OBS.:** 
 A) Se desejar rodar apenas na sua máquina (host) só precisará do 
     **Java 21, MySQL 8 (ou outro banco de dados de sua escolha) e Maven (para construção do projeto) e cliente de banco de dados (ex.: PHPMyAdmin, MySQL Workbench etc)**
+    <br>
 B) Se deseja rodar diretamente em um container Docker só precisrá do **Docker e docker-compose**
 ___
 

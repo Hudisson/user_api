@@ -38,6 +38,7 @@ ___
 - Maven (para construção do projeto)
 
 **OBS.:** 
+<br>
 A) Se desejar rodar apenas na sua máquina (host) só precisará do 
     **Java 21, MySQL 8 (ou outro banco de dados de sua escolha) e Maven (para construção do projeto) e cliente de banco de dados (ex.: PHPMyAdmin, MySQL Workbench etc)**
     <br>
